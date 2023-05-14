@@ -14,7 +14,7 @@ Prior to the analysis relevant data needs to be collected which requires differe
 The data related to available jobs was collected from the API running on the IBM Skills Network. The python lab for the data collection using API is available [here](https://github.com/aaysul/stackoverflow-developer-survey-analysis/blob/main/Collecting_Jobs_data_Using_API-Questions.ipynb).
 The data is provided in JSON format with fields including 'Job Title', 'Job Experience Required', 'Key Skills', 'Role Category', 'Role', 'Location', 'Functional Area' and 'Industry'. The data was segregated and transfered into Excel Workbook.
 
-The second mode of data collection used was web scraping. This data was also provided by the IBM Skills Network and provided the information on popular programming lanaguages and associated annual average salary. The lab for this step is available [here](https://github.com/aaysul/stackoverflow-developer-survey-analysis/blob/main/Collecting_Jobs_data_Using_API-Questions.ipynb). The data was collected using python BeautifulSoup library and converted for storage to Excel CSV file.
+The second mode of data collection used was web scraping. This data was also provided by the IBM Skills Network and provided the information on popular programming lanaguages and associated annual average salary. The lab for this step is available [here](https://github.com/aaysul/stackoverflow-developer-survey-analysis/blob/main/Web-Scraping-Lab.ipynb). The data was collected using python BeautifulSoup library and converted for storage to Excel CSV file.
 
 ## 2. Exploring Dataset
 
