@@ -18,7 +18,7 @@ The second mode of data collection used was web scraping. This data was also pro
 
 ## 2. Exploring Dataset
 
-In this step the Stack Overflow Developer Survey 2019 dataset was used. The link for survey dataset is available on the link below.
+In this step the Stack Overflow Developer Survey 2019 dataset was used. Survey dataset can be accessed on the link below.
 
 [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/)
 
