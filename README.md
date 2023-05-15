@@ -2,7 +2,7 @@
 ### A Job Market Demand and Supply Analysis
 This project involves analysis of the demand and supply between the current jobs and the available developer pool all over the world. The analysis is based on the 2019 Stack Overflow Developer Survey. The purpose of the analysis is to identify the current and future technology trends in the developer pool accross the world with regards to programming languages, databases, platforms and Web Frameworks. 
 
-Following is the detail of the steps involved in the process that led to successful completion of this analysis. The insights achieved in the process were share in the final report.
+Following is the detail of the steps involved in the process that led to successful completion of this analysis. The insights achieved in the process were shared in the final report.
 
 ## 1. Data Collection
 
