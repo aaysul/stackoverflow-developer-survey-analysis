@@ -18,7 +18,11 @@ The second mode of data collection used was web scraping. This data was also pro
 
 ## 2. Exploring Dataset
 
-In this step the Stack Overflow Developer Survey 2019 dataset was used. The link for survey dataset is available [here](https://insights.stackoverflow.com/survey/). The python lab for this step can be accessed [here](https://github.com/aaysul/stackoverflow-developer-survey-analysis/blob/main/M1ExploreDataSet-lab.ipynb).
+In this step the Stack Overflow Developer Survey 2019 dataset was used. The link for survey dataset is available on the link below.
+
+[Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/). 
+
+The python lab for this step can be accessed [here](https://github.com/aaysul/stackoverflow-developer-survey-analysis/blob/main/M1ExploreDataSet-lab.ipynb).
 In this lab the dataset was explored for its shape and contents, the countries from which the respondents to the survey belonged and the age groups of the respondents.
 
 ## 3. Data Wrangling
