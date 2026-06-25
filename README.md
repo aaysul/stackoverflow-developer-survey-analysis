@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="Project Image" src="https://github.com/user-attachments/assets/2a6b0d80-86c5-4193-9d23-974b62f770ab" />
+
 # [StackOverflow Developer Survey Analysis](https://github.com/aaysul/stackoverflow-developer-survey-analysis/tree/main)
 ### A Job Market Demand and Supply Analysis
 This project involves analysis of the demand and supply between the current jobs and the available developer pool all over the world. The analysis is based on the 2019 Stack Overflow Developer Survey. The purpose of the analysis is to identify the current and future technology trends in the developer pool accross the world with regards to programming languages, databases, platforms and Web Frameworks. 
